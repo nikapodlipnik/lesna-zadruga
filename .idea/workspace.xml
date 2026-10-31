@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ae4d42b-af20-4d03-9702-34d07fd6706a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_redirects" beforeDir="false" afterPath="$PROJECT_DIR$/_redirects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apartma-podcetrtek/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/apartma-podcetrtek/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ap1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ap2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ap3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ap4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ap5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ap6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lzsd-logotip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements-config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vizitka/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vizitka/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000002" />
+      <entry key="S2" value="1.0001470003589623" />
+      <entry key="S5" value="1.043586648772368" />
+      <entry key="S10" value="1.2942925414417055" />
+      <entry key="S30" value="2.055108922311713" />
+      <entry key="S60" value="2.4525266805131154" />
+      <entry key="M2" value="2.704382921058248" />
+      <entry key="M5" value="2.8760417313477635" />
+      <entry key="M10" value="2.9370277828067684" />
+      <entry key="M15" value="2.957794679492589" />
+      <entry key="M30" value="2.978785042239404" />
+      <entry key="H1" value="2.992060923984244" />
+      <entry key="H2" value="3.2136739337532876" />
+      <entry key="H4" value="4.979754267703246" />
+      <entry key="D1" value="15.459062596540313" />
+      <entry key="W1" value="20.07827931860865" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="5.0916516849043704E-229" />
+      <entry key="M2" value="7.135581044949577E-115" />
+      <entry key="M5" value="2.1946826849113048E-46" />
+      <entry key="M10" value="1.481446146476917E-23" />
+      <entry key="M15" value="6.03194323364854E-16" />
+      <entry key="M30" value="2.4560014726478775E-8" />
+      <entry key="H1" value="1.5671635117778485E-4" />
+      <entry key="H2" value="0.012518640148905344" />
+      <entry key="H4" value="0.11188672910093196" />
+      <entry key="D1" value="0.6941656132578155" />
+      <entry key="W1" value="0.9491871953536272" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.5547847360339225" />
+      <entry key="MS500" value="0.8888426811665704" />
+      <entry key="S2" value="0.9711101217556817" />
+      <entry key="S5" value="1.0307380173988894" />
+      <entry key="S10" value="1.2843259480211606" />
+      <entry key="S30" value="2.0480399954548942" />
+      <entry key="S60" value="2.4479921802074522" />
+      <entry key="M2" value="2.7017963986861235" />
+      <entry key="M5" value="2.874919723720629" />
+      <entry key="M10" value="2.9364512220724066" />
+      <entry key="M15" value="2.9574067716394383" />
+      <entry key="M30" value="2.9785893262063854" />
+      <entry key="H1" value="2.9921191243623757" />
+      <entry key="H2" value="3.2261353812203004" />
+      <entry key="H4" value="5.091580583627771" />
+      <entry key="D1" value="16.15318676708168" />
+      <entry key="W1" value="21.027458621235574" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LQf5HqjOJBHshgIgOxPUPXxiNt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikde/Desktop/lesna-zadruga&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ae4d42b-af20-4d03-9702-34d07fd6706a" name="Changes" comment="" />
+      <created>1793391029347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793391029347</updated>
+      <workItem from="1793391030665" duration="1626000" />
+      <workItem from="1793393384317" duration="2150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
